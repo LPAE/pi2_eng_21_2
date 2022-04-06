@@ -1,0 +1,2 @@
+ /usr/share/arduino/arduino-builder -compile -logger=machine -hardware /usr/share/arduino/hardware -hardware /home/alejopm/.arduino15/packages -tools /usr/share/arduino/tools-builder -tools /home/alejopm/.arduino15/packages -libraries /home/alejopm/Arduino/libraries -fqbn=archlinux-arduino:avr:mega:cpu=atmega2560 -ide-version=10819 -build-path bin/ -warnings=none -build-cache cache/ -prefs=build.warn_data_percentage=75 -verbose src/main.ino
+/bin/avrdude -v -patmega2560 -cwiring -P/dev/ttyACM0 -b115200 -D -Uflash:w:bin/main.ino.hex
