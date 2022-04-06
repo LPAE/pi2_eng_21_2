@@ -26,6 +26,6 @@ Projetos Integradores dos alunos da Engenharia Eletrônica - IFSC Florianópolis
 | Joao Mario Carnieletto Izoton Lago  | https://github.com/JoaoMario109/projeto-integrador-2                      |
 | Leonan Martins                      | https://github.com/leonanm03/Domotica-com-a-Internet-das-Coisas-IoT_PI2-2021.2                                           |
 | Maite Luisa Da Silva                | https://github.com/maiteluisaa/projeto_pi2                   |
-| Matheus Bernardo Dambrowski         | https://github.com/MatheusBD15/Projeto-integrador-2                                |
+| Matheus Bernardo Dambrowski         | -                                |
 | Pedro Henrique Harenza              | https://github.com/pedrohharenza/projeto-integrador-II                                           |
 | Thais Silva Lisatchok               | https://github.com/thaislisatchok/Projeto-Integrador-II/                   |
